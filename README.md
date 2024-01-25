@@ -1,2 +1,2 @@
 # zcta-adjacency-list
-Adjacency list of United State ZIP codes.
+Adjacency list of United States' ZIP codes.
