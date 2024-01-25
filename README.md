@@ -1,7 +1,7 @@
 # zcta-adjacency-list
 Adjacency list of United States' ZIP codes.
 
-The top-level JSON object is keyed by a stringed ZIP code (e.g. '90210`). The value is a list of ZIP codes adjacent to the key:
+The top-level JSON object is keyed by a stringed ZIP code (e.g. `'90210'`). The value is a list of ZIP codes adjacent to the key:
 
 ```
 ...
